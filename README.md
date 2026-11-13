@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏛️ Government Scheme Eligibility Navigator
 
 > **Assignment 3: Government Scheme Eligibility Navigator**  
@@ -230,3 +231,6 @@ scheme-eligibility-navigator/
     ├── __init__.py
     └── test_agents.py              # 7 automated tests for all 7 acceptance criteria
 ```
+=======
+# Scheme-Finder
+>>>>>>> a54674aba58021c4062184a6c34c152d88f94800
